@@ -1,0 +1,17 @@
+.press_img{
+    height: 25rem;
+    position: relative;
+    margin-top: 25%;
+}
+#addPrcptn{
+    margin-top: 5%;
+}
+#press_form{
+    overflow-y:scroll;
+    height: 27rem;
+    overflow-x: hidden;
+}
+
+.prescp{
+    margin: 0!important;
+}

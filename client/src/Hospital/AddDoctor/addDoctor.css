@@ -1,0 +1,12 @@
+.addDocimg{
+    height: 20rem;
+    position: relative;
+    margin-top:25% ;
+}
+#addDocrow{
+    margin-top: 5%;
+}
+.addDocbtn{
+  
+    font-weight: 500!important;
+}

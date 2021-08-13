@@ -1,0 +1,21 @@
+.adduserbkg{
+    background-image: url(../AddUser/black-1072366_1920.jpg);
+    height: 35vh;
+}
+.adduser_head{
+    margin-top: 0rem;
+    padding-top:3rem ;
+    
+}
+#adduser_srch{
+    background-color: white!important;
+    border-radius:0.2rem;
+    padding-right: 1rem!important;
+    padding-left: 1rem!important;
+    
+}
+.usercard_img{
+    height: 200px;
+    width: 200px;
+ 
+}

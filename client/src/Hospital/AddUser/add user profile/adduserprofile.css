@@ -1,0 +1,17 @@
+#addUp{
+    margin-top: 5%;
+}
+.addUp_img{
+    margin-top: 25%;
+    height: 25rem;
+    background-color: white;
+}
+
+#addUp_form{
+    overflow-y: scroll;
+    height: 27rem;
+    overflow-x: hidden;
+}
+.prescp{
+    margin: 0!important;
+}

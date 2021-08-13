@@ -1,0 +1,46 @@
+.img1{
+    height: 22rem!important;
+    
+}
+#lab_s_icon{
+    position: relative;
+    margin-top: 1rem;
+    padding-right:0!important;
+}
+#lab_srch{
+    position: relative;
+    margin-top: 3rem;
+    
+}
+@media only screen and (min-width: 777px) {
+    #lab_srch {
+        position: relative;
+        margin-top: 3rem;
+        margin-left: -35%;
+    }
+    .img1{
+        position: relative;
+        margin-top:-5rem ;
+        height: 400px!important;
+    }
+    .lab_im2{
+        
+        position: relative;
+        margin-top: -6rem!important;
+        left: 2rem!important;
+    }
+  }
+#lab_img2{
+    
+    
+}
+.lab_im2{
+    height: 23rem!important;
+    position: relative;
+    margin-top: -2rem;
+    left: 22rem!important;
+}
+#labhead{
+    position: relative;
+    margin-top: 2rem;
+}

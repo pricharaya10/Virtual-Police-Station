@@ -1,0 +1,114 @@
+
+.dash_land_img{
+    margin-top:0!important ;
+    background: url(../dashboard/img/squad-car-1209719_1920.jpg);
+    height: 40vh!important;
+    
+    background-repeat: no-repeat;
+    background-position:bottom;
+
+    
+}
+#dash_head{
+    position: relative;
+    margin-top: 0rem!important;
+    padding-top: 10%;
+}
+#dashboardcard1{
+    padding: 1rem;
+    margin-top: 2rem;
+}
+
+#das_c_c1{
+   
+    background-color: #ff9a8d;
+    color: white;
+    padding: 50px!important;
+    position: relative;
+    margin-top: -6rem;
+    
+}
+
+#das_c_c2{
+   
+    background-color: #4a536b;
+    color: white;
+    padding: 50px!important;
+    position: relative;
+    margin-top: -6rem;
+    
+}
+
+#das_c_c3{
+   
+    background-color: #da68a0;
+    color: white;
+    padding: 50px!important;
+    position: relative;
+    margin-top: -6rem;
+    
+}
+#das_c_c4{
+   
+    background-color: #77c593;
+    color: white;
+    padding: 50px!important;
+    position: relative;
+    margin-top: -6rem;
+    
+
+}
+
+/*Row2*/
+
+#r2_cards_c{
+    padding:2rem!important;
+
+}
+#r2_cards{
+    border-left: solid #ff9a8d 1.5rem ;
+    
+}
+#r2_btn{
+    
+    position: relative;
+    margin-top: 2rem;
+    background-color: #ff9a8d;
+}
+
+#r2_icon{
+    
+    color:#ff9a8d;
+}
+
+#r2_c_cimg{
+    background-image: url(./img/handshake-3139227_640.jpg);
+    background-position: center ;
+    height: 14.5rem;
+    margin: -1.5rem;
+    
+}
+
+/*Card2 row 2*/
+
+#r2_cards2{
+    border-left: solid #4a536b 1.5rem;
+    
+}
+#r2_btn2{
+    
+    position: relative;
+    margin-top: 2rem;
+    background-color: #4a536b;
+}
+#r2_icon2{
+    
+    color:#4a536b;
+}
+#r2_c_c2img{
+    background-image: url(./img//medical-563427_640.jpg);
+    background-position: center ;
+    height: 14.5rem;
+    margin: -1.5rem;
+}
+

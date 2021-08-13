@@ -1,0 +1,46 @@
+
+.exp_img{
+    background-image: url('./img/lab.jpg');
+    min-height: 100px;
+    padding-left: 0!important;
+    height: 92.5vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    left: 0;
+ 
+  }
+  
+  #edu_exp_pro_row{
+    margin-bottom: 0;
+    
+  }
+  #scroll_spy{
+  
+    justify-content: center;
+    margin-top: 10px;
+    
+    
+  }
+  #scroll_spy_btn{
+    border-radius: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .profile_col2{
+    height: 92vh;
+    padding-bottom: 1rem!important;
+    
+  }
+
+  @media  screen and  (min-width:993px){
+    #body3{
+      overflow :hidden!important; 
+    }
+    .profile_col2{
+      overflow-y: scroll!important;
+    }
+  }
+
+ 

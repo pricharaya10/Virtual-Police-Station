@@ -1,0 +1,34 @@
+.blgs_srch_icon{
+    position: relative;
+    margin-top: 0.5rem;
+    color: #4a536b  ;
+  }
+.d_bkg{
+  
+    background-repeat: no-repeat;
+    height: 30vh;
+    
+}
+#dlist_col1{
+    padding:3rem;
+}
+#d_img{
+    margin-top: 5%;
+    height: 30rem;
+}
+
+
+#d_srch{
+    color: #4a536b!important;
+    background-color:white ;
+    position: relative;
+    margin-right:0.5rem!important ;
+    border-radius: 0.5rem;
+    
+    border: #4a536b solid thin;
+}
+
+#secrow{
+    height: 90vh!important;
+    overflow-y: scroll!important;
+}
